@@ -9,3 +9,7 @@ The dataset used in this project includes detailed information about IPL matches
 - Player statistics (runs, wickets, catches, etc.)
 - Team performance (wins, losses, points, etc.)
 - Season summaries
+
+#Note
+
+There are some discrepancies in 2024 season data. 
