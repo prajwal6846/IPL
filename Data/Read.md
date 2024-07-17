@@ -1,6 +1,6 @@
 ## Project Overview
 
-This project is focused on analyzing the Indian Premier League (IPL) data to extract meaningful insights and patterns. By leveraging various data analysis and visualization techniques, this project aims to provide a comprehensive understanding of the IPL matches, teams, players, and their performance over the years.
+This project is focused on analyzing the Indian Premier League (IPL) data to extract meaningful insights and patterns. By leveraging Power BI and various data analysis and visualization techniques, this project aims to provide a comprehensive understanding of the IPL matches, teams, players, and their performance over the years.
 
 ## Dataset
 
