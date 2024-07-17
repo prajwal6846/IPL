@@ -6,8 +6,8 @@ This project is focused on analyzing the Indian Premier League (IPL) data to ext
 
 The dataset used in this project includes detailed information about IPL matches, players, teams, and seasons. The data is sourced from Kaggle: https://www.kaggle.com/datasets/rajsengo/indian-premier-league-ipl-all-seasons and includes the following:
 - Match details (date, venue, teams, winner, etc.)
-- Player statistics (runs, wickets, catches, etc.)
-- Team performance (wins, losses, points, etc.)
+- Player statistics (runs, wickets, fours, sixes etc.)
+- Team performance (wins, points, etc.)
 - Season summaries
 
 (Note: There are some discrepancies in 2024 season data.)
